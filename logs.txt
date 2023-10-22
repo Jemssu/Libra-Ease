@@ -1,0 +1,326 @@
+DELETED LOGS DO NOT MODIFY
+Title: DummFor
+Author: DummyFor1
+Publisher: DummyFor
+Genre: DummyFor
+
+Title: DummFor
+Author: DummyFor1
+Publisher: DummyFor
+Genre: DummyFor
+
+Title: 
+Author: SampleFive
+Publisher: SampleFive
+Genre: SampleFive
+
+Title: DummFor
+Author: DummyFor1
+Publisher: DummyFor
+Genre: DummyFor
+
+Title: DummyTree
+Author: DummyTree
+Publisher: DummyTree
+Genre: DummyTree
+
+Title: Dummy
+Author: Dummy
+Publisher: Dummy
+Genre: Dummy
+
+Title: DummyToo
+Author: DummyToo
+Publisher: DummyToo
+Genre: DummyToo
+
+Title: 
+Author: SampleFive
+Publisher: SampleFive
+Genre: SampleFive
+
+Title: DummFor
+Author: DummyFor
+Publisher: DummyFor
+Genre: DummyFor
+
+Title: DummyTree
+Author: DummyTree
+Publisher: DummyTree
+Genre: DummyTree
+
+Title: Dummy
+Author: Dummy
+Publisher: Dummy
+Genre: Dummy
+
+Title: DummyToo
+Author: DummyToo
+Publisher: DummyToo
+Genre: DummyToo
+
+Title: DummFor
+Author: DummyFor
+Publisher: DummyFor
+Genre: DummyFor
+
+Title: DummyTree
+Author: DummyTree
+Publisher: DummyTree
+Genre: DummyTree
+
+Title: Dummy
+Author: Dummy
+Publisher: Dummy
+Genre: Dummy
+
+Title: DummyToo
+Author: DummyToo
+Publisher: DummyToo
+Genre: DummyToo
+
+Title: Dummy
+Author: Dummy
+Publisher: Dummy
+Genre: Dummy
+
+Title: Sample
+Author: Sample
+Publisher: Sample
+Genre: Sample
+
+Title: DummyToo
+Author: DummyToo
+Publisher: DummyToo
+Genre: DummyToo
+
+Title: Sample2
+Author: Sample2
+Publisher: Sample2
+Genre: Sample2
+
+Title: 
+Author: 
+Publisher: Sample
+Genre: 
+
+Title: Sample1
+Author: Sample1
+Publisher: Sample1
+Genre: Sample1
+
+Title: Title
+Author: Author
+Publisher: Publisher
+Genre: Genre
+
+Title: Sample2
+Author: Sample2
+Publisher: Sample2
+Genre: Sample2
+
+Title: SampleToo
+Author: SampleToo
+Publisher: SampleToo
+Genre: SampleToo
+
+Title: New Book
+Author: Jems
+Publisher: Jems
+Genre: Jems
+
+Title: Saa
+Author: Saa
+Publisher: Saa
+Genre: Saa
+
+Title: Sample
+Author: Sample
+Publisher: Sample
+Genre: Sample
+
+Title: Sa
+Author: Sa
+Publisher: Sa
+Genre: Sa
+
+Book ID: 23591863
+Title: SampleTree
+Author: SampleTree
+Publisher: SampleTree
+Publication Date: 10/3/2023 12:00:00 AM
+Genre: Romance
+Availability: True
+Borrower ID: 1
+Borrowed Date: 10/22/2023 12:00:00 AM
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 10/22/2023 12:00:00 AM
+
+Book ID: 19803934
+Title: Title
+Author: Author
+Publisher: Publisher
+Publication Date: 10/22/2023 12:00:00 AM
+Genre: Non-Fiction
+Availability: True
+Borrower ID: 
+Borrowed Date: 
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 
+
+Book ID: 27164194
+Title: PL
+Author: PL
+Publisher: PL
+Publication Date: 10/22/2023 12:00:00 AM
+Genre: Fantasy
+Availability: True
+Borrower ID: 1
+Borrowed Date: 10/22/2023 12:00:00 AM
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 10/22/2023 12:00:00 AM
+
+Book ID: 32218094
+Title: title
+Author: title
+Publisher: title
+Publication Date: 10/10/2023 12:00:00 AM
+Genre: title
+Availability: True
+Borrower ID: 1
+Borrowed Date: 10/22/2023 12:00:00 AM
+Due Date: 
+Returned Date: 10/22/2023 12:00:00 AM
+
+Book ID: 50755783
+Title: S
+Author: S
+Publisher: S
+Publication Date: 10/5/2023 12:00:00 AM
+Genre: S
+Availability: True
+Borrower ID: 
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 50796948
+Title: SampleToo
+Author: SampleToo
+Publisher: SampleToo
+Publication Date: 10/4/2023 12:00:00 AM
+Genre: Fantasy
+Availability: True
+Borrower ID: 
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 66450517
+Title: SS
+Author: SS
+Publisher: SS
+Publication Date: 10/16/2023 12:00:00 AM
+Genre: SS
+Availability: True
+Borrower ID: 
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 93906793
+Title: Sample
+Author: Sample
+Publisher: Sample
+Publication Date: 2/22/2023 12:00:00 AM
+Genre: Sample
+Availability: True
+Borrower ID: 1
+Borrowed Date: 10/22/2023 12:00:00 AM
+Due Date: 11/6/2023 12:00:00 AM
+Returned Date: 10/22/2023 12:00:00 AM
+
+Book ID: 96222233
+Title: A
+Author: A
+Publisher: A
+Publication Date: 9/26/2023 12:00:00 AM
+Genre: Fantasy
+Availability: True
+Borrower ID: 
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 83903324
+Title: TestMe
+Author: TestMe
+Publisher: TestMe
+Publication Date: 10/15/2023 12:00:00 AM
+Genre: TestMe
+Availability: True
+Borrower ID: 1
+Borrowed Date: 
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 
+
+Book ID: 98296015
+Title: Jems
+Author: Jems
+Publisher: Jems
+Publication Date: 10/15/2023 12:00:00 AM
+Genre: Jems
+Availability: True
+Borrower ID: 1
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 32267042
+Title: Va
+Author: Va
+Publisher: Va
+Publication Date: 10/15/2023 12:00:00 AM
+Genre: Va
+Availability: True
+Borrower ID: 1
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 22909204
+Title: Title
+Author: Title
+Publisher: Title
+Publication Date: 10/11/2023 12:00:00 AM
+Genre: Title
+Availability: True
+Borrower ID: 1
+Borrowed Date: 
+Due Date: 
+Returned Date: 
+
+Book ID: 11199958
+Title: Title
+Author: Title
+Publisher: Title
+Publication Date: 10/15/2023 12:00:00 AM
+Genre: Title
+Availability: True
+Borrower ID: 1
+Borrowed Date: 10/22/2023 12:00:00 AM
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 10/22/2023 12:00:00 AM
+
+Book ID: 20924867
+Title: Book Too
+Author: Mr. Too
+Publisher: Too Publishing
+Publication Date: 6/14/1994 12:00:00 AM
+Genre: Thriller
+Availability: True
+Borrower ID: 1
+Borrowed Date: 
+Due Date: 10/22/2023 12:00:00 AM
+Returned Date: 
+
